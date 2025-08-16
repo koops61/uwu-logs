@@ -1,42 +1,36 @@
-<<<<<<< HEAD
-_*
-legacy*
-test*
-q_*
-w_*
-x_*
-*.7z
-*.db
-*.exe
-*.ini
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+*.so
+
+# Virtual env
+venv/
+.venv/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs (runtime)
+_loggers/
 *.log
-*.mp4
-*.old
-*.pem
+
+# Données générées par les scripts
+LogsDir/
+uploads/uploaded/
+uploads/tmp/
+pending_archive/
+archives/
+*.7z
 *.zip
 
-.*/
-bkup/
-cache/
-db/
-LogsDir/
-LogsRaw/
-nginx/
-parsed/
-static/enchant/
-static/icons/
-static/item/
-static/gear/
-temp/
-top/
-uploads/
-venv/
-=======
-venv/
-__pycache__/
-*.pyc
-uploads/
-db/
-*.7z
-*.log
->>>>>>> a94d2b1 (Initial commit du projet uwu-logs avec mes modifs)
+# Bases locales SQLite
+db/top/*.db
+db/gear/*.db
+
+# Caches
+.cache/
