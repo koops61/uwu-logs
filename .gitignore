@@ -1,40 +1,76 @@
-# Python
+# -----------------------
+# Python / Compilation
+# -----------------------
 __pycache__/
 *.py[cod]
 *.pyo
 *.egg-info/
 *.so
 
+# -----------------------
 # Virtual env
+# -----------------------
 venv/
 .venv/
 
+# -----------------------
 # IDE / OS
+# -----------------------
 .vscode/
 .idea/
 .DS_Store
 Thumbs.db
 _logs_list.pkl
-static/icons/
+static/icons/*
+!static/icons/.gitkeep
 
-# Logs (runtime)
+# -----------------------
+# Logs runtime
+# -----------------------
 _loggers/
 *.log
 
+# -----------------------
 # Données générées par les scripts
-LogsDir/
-LogsRaw/
-uploads/uploaded/
-uploads/tmp/
-pending_archive/
-uploads/0file_info/
-archives/
+# -----------------------
+LogsDir/*
+!LogsDir/.gitkeep
+
+LogsRaw/*
+!LogsRaw/.gitkeep
+
+uploads/uploaded/*
+!uploads/uploaded/.gitkeep
+
+uploads/tmp/*
+!uploads/tmp/.gitkeep
+
+uploads/0file_info/*
+!uploads/0file_info/.gitkeep
+
+pending_archive/*
+!pending_archive/.gitkeep
+
+archives/*
+!archives/.gitkeep
+
 *.7z
 *.zip
 
-# Bases locales SQLite
-db/top/*.db
-db/gear/*.db
+# -----------------------
+# Bases locales (on garde l’arbo, on ignore le contenu)
+# -----------------------
+db/top/*
+!db/top/.gitkeep
 
+db/gear/*
+!db/gear/.gitkeep
+
+db/speedrun/*
+!db/speedrun/.gitkeep
+
+# -----------------------
 # Caches
+# -----------------------
 .cache/
+
