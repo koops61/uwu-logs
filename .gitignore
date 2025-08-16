@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 _*
 legacy*
 test*
@@ -30,3 +31,12 @@ temp/
 top/
 uploads/
 venv/
+=======
+venv/
+__pycache__/
+*.pyc
+uploads/
+db/
+*.7z
+*.log
+>>>>>>> a94d2b1 (Initial commit du projet uwu-logs avec mes modifs)

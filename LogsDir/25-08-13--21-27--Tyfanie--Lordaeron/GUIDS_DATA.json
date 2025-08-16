@@ -1,0 +1,2690 @@
+{
+  "0x0600000000767EC0": {
+    "name": "Vvika"
+  },
+  "0x06000000004C180B": {
+    "name": "Tyfanie"
+  },
+  "0xF14027C156000001": {
+    "name": "KnobGobbler",
+    "master_name": "Brojob",
+    "master_guid": "0x060000000072F238"
+  },
+  "0x0600000000766477": {
+    "name": "Deadornot"
+  },
+  "0x060000000072F238": {
+    "name": "Brojob"
+  },
+  "0x060000000076B542": {
+    "name": "Nazghoul"
+  },
+  "0x0600000000713619": {
+    "name": "Zuki"
+  },
+  "0x060000000004D26B": {
+    "name": "Miserp"
+  },
+  "0x060000000075DD58": {
+    "name": "Araxia"
+  },
+  "0xF130007E61000008": {
+    "name": "Gardien d'Archavon"
+  },
+  "0xF13000799D000016": {
+    "name": "Flametongue Totem VIII",
+    "master_name": "Araxia",
+    "master_guid": "0x060000000075DD58"
+  },
+  "0xF130007999000017": {
+    "name": "Strength of Earth Totem VIII",
+    "master_name": "Araxia",
+    "master_guid": "0x060000000075DD58"
+  },
+  "0xF1300079D1000018": {
+    "name": "Healing Stream Totem IX",
+    "master_name": "Araxia",
+    "master_guid": "0x060000000075DD58"
+  },
+  "0xF130003C57000019": {
+    "name": "Totem de courroux de l'air",
+    "master_name": "Araxia",
+    "master_guid": "0x060000000075DD58"
+  },
+  "0xF11002E38A000003": {
+    "name": "Piège explosif VI"
+  },
+  "0x0000000000000000": {
+    "name": "nil"
+  },
+  "0xF130007E61000009": {
+    "name": "Gardien d'Archavon"
+  },
+  "0x060000000077132A": {
+    "name": "Caelthass"
+  },
+  "0x06000000006DB113": {
+    "name": "Selydra"
+  },
+  "0x060000000076A2BD": {
+    "name": "Astori"
+  },
+  "0x060000000062F7E2": {
+    "name": "Kitzune"
+  },
+  "0xF13000799D00001B": {
+    "name": "Flametongue Totem VIII",
+    "master_name": "Araxia",
+    "master_guid": "0x060000000075DD58"
+  },
+  "0xF13000799900001C": {
+    "name": "Strength of Earth Totem VIII",
+    "master_name": "Araxia",
+    "master_guid": "0x060000000075DD58"
+  },
+  "0xF1300079D100001D": {
+    "name": "Healing Stream Totem IX",
+    "master_name": "Araxia",
+    "master_guid": "0x060000000075DD58"
+  },
+  "0xF130003C5700001E": {
+    "name": "Totem de courroux de l'air",
+    "master_name": "Araxia",
+    "master_guid": "0x060000000075DD58"
+  },
+  "0x060000000073F05A": {
+    "name": "Athanel"
+  },
+  "0x060000000077CE1A": {
+    "name": "Frithnanth"
+  },
+  "0x0600000000376457": {
+    "name": "Supersuka"
+  },
+  "0x0600000000749A5C": {
+    "name": "Zorbist"
+  },
+  "0xF130007E61000007": {
+    "name": "Gardien d'Archavon"
+  },
+  "0x060000000073BACB": {
+    "name": "Darkthron"
+  },
+  "0xF13000799D00001F": {
+    "name": "Flametongue Totem VIII",
+    "master_name": "Araxia",
+    "master_guid": "0x060000000075DD58"
+  },
+  "0xF130007999000020": {
+    "name": "Strength of Earth Totem VIII",
+    "master_name": "Araxia",
+    "master_guid": "0x060000000075DD58"
+  },
+  "0xF1300079D1000021": {
+    "name": "Healing Stream Totem IX",
+    "master_name": "Araxia",
+    "master_guid": "0x060000000075DD58"
+  },
+  "0xF130003C57000022": {
+    "name": "Totem de courroux de l'air",
+    "master_name": "Araxia",
+    "master_guid": "0x060000000075DD58"
+  },
+  "0x060000000069F5AB": {
+    "name": "Clarki"
+  },
+  "0xF13000965200000C": {
+    "name": "Gardien du givre"
+  },
+  "0xF13000799D000023": {
+    "name": "Flametongue Totem VIII",
+    "master_name": "Araxia",
+    "master_guid": "0x060000000075DD58"
+  },
+  "0xF130007999000024": {
+    "name": "Strength of Earth Totem VIII",
+    "master_name": "Araxia",
+    "master_guid": "0x060000000075DD58"
+  },
+  "0xF1300079D1000025": {
+    "name": "Healing Stream Totem IX",
+    "master_name": "Araxia",
+    "master_guid": "0x060000000075DD58"
+  },
+  "0xF130003C57000026": {
+    "name": "Totem de courroux de l'air",
+    "master_name": "Araxia",
+    "master_guid": "0x060000000075DD58"
+  },
+  "0x06000000006D2F4C": {
+    "name": "Widowswail"
+  },
+  "0xF13000965200000D": {
+    "name": "Gardien du givre"
+  },
+  "0xF13000799D000027": {
+    "name": "Flametongue Totem VIII",
+    "master_name": "Araxia",
+    "master_guid": "0x060000000075DD58"
+  },
+  "0xF130007999000028": {
+    "name": "Strength of Earth Totem VIII",
+    "master_name": "Araxia",
+    "master_guid": "0x060000000075DD58"
+  },
+  "0xF1300079D1000029": {
+    "name": "Healing Stream Totem IX",
+    "master_name": "Araxia",
+    "master_guid": "0x060000000075DD58"
+  },
+  "0xF130003C5700002A": {
+    "name": "Totem de courroux de l'air",
+    "master_name": "Araxia",
+    "master_guid": "0x060000000075DD58"
+  },
+  "0xF11002E38A000004": {
+    "name": "Piège explosif VI"
+  },
+  "0x060000000059C1B9": {
+    "name": "Husilica"
+  },
+  "0x0600000000741990": {
+    "name": "Koviik"
+  },
+  "0x06000000004BB0AA": {
+    "name": "Sahn"
+  },
+  "0xF11002F0A3000005": {
+    "name": "Festin de poisson"
+  },
+  "0xF130009621000006": {
+    "name": "Toravon la Sentinelle de glace"
+  },
+  "0x060000000063A71C": {
+    "name": "Victorbelf"
+  },
+  "0x060000000077AB99": {
+    "name": "Kirgonde"
+  },
+  "0x0600000000637BDD": {
+    "name": "Allfjdwja"
+  },
+  "0x060000000069FD31": {
+    "name": "Hardstrong"
+  },
+  "0x06000000006FE89E": {
+    "name": "Greudi"
+  },
+  "0xF1300007AC00002B": {
+    "name": "Tréant",
+    "master_name": "Tyfanie",
+    "master_guid": "0x06000000004C180B"
+  },
+  "0xF1300007AC00002C": {
+    "name": "Tréant",
+    "master_name": "Tyfanie",
+    "master_guid": "0x06000000004C180B"
+  },
+  "0xF1300007AC00002D": {
+    "name": "Tréant",
+    "master_name": "Tyfanie",
+    "master_guid": "0x06000000004C180B"
+  },
+  "0xF1300079F000002E": {
+    "name": "Image miroir",
+    "master_name": "Deadornot",
+    "master_guid": "0x0600000000766477"
+  },
+  "0xF1300079F000002F": {
+    "name": "Image miroir",
+    "master_name": "Deadornot",
+    "master_guid": "0x0600000000766477"
+  },
+  "0xF1300079F0000030": {
+    "name": "Image miroir",
+    "master_name": "Deadornot",
+    "master_guid": "0x0600000000766477"
+  },
+  "0xF13000799D000031": {
+    "name": "Flametongue Totem VIII",
+    "master_name": "Araxia",
+    "master_guid": "0x060000000075DD58"
+  },
+  "0xF130007999000032": {
+    "name": "Strength of Earth Totem VIII",
+    "master_name": "Araxia",
+    "master_guid": "0x060000000075DD58"
+  },
+  "0xF1300079D1000033": {
+    "name": "Healing Stream Totem IX",
+    "master_name": "Araxia",
+    "master_guid": "0x060000000075DD58"
+  },
+  "0xF130003C57000034": {
+    "name": "Totem de courroux de l'air",
+    "master_name": "Araxia",
+    "master_guid": "0x060000000075DD58"
+  },
+  "0xF11002E38A000006": {
+    "name": "Piège explosif VI"
+  },
+  "0xF130004CD4000037": {
+    "name": "Shadowfiend",
+    "master_name": "Astori",
+    "master_guid": "0x060000000076A2BD"
+  },
+  "0xF130009638000038": {
+    "name": "Orbe gelé"
+  },
+  "0xF11002E38A000007": {
+    "name": "Piège explosif VI"
+  },
+  "0xF13000963800003B": {
+    "name": "Orbe gelé"
+  },
+  "0xF11002E38A000008": {
+    "name": "Piège explosif VI"
+  },
+  "0xF13000963800003E": {
+    "name": "Orbe gelé"
+  },
+  "0xF11002E38A000009": {
+    "name": "Piège explosif VI"
+  },
+  "0xF130009638000041": {
+    "name": "Orbe gelé"
+  },
+  "0xF11002831F00000A": {
+    "name": "Piège de glace"
+  },
+  "0xF13000660D000043": {
+    "name": "Goule ressuscitée",
+    "master_name": "Nazghoul",
+    "master_guid": "0x060000000076B542"
+  },
+  "0xF130009638000045": {
+    "name": "Orbe gelé"
+  },
+  "0xF11002E38A00000B": {
+    "name": "Piège explosif VI"
+  },
+  "0xF130004CD4000046": {
+    "name": "Shadowfiend",
+    "master_name": "Astori",
+    "master_guid": "0x060000000076A2BD"
+  },
+  "0xF130009638000049": {
+    "name": "Orbe gelé"
+  },
+  "0xF11002E62A00000C": {
+    "name": "Portail vers Pierrêche"
+  },
+  "0xF11002EABC00000D": {
+    "name": "Portail vers Dalaran"
+  },
+  "0x060000000077A2E5": {
+    "name": "Chalino"
+  },
+  "0x06000000006CCE03": {
+    "name": "Jodaw"
+  },
+  "0x0600000000772DE0": {
+    "name": "Mymaster"
+  },
+  "0x06000000006CAC37": {
+    "name": "Cumnatu"
+  },
+  "0x060000000075B03F": {
+    "name": "Alesarion"
+  },
+  "0x06000000003CB406": {
+    "name": "Maximilijan"
+  },
+  "0x0600000000595924": {
+    "name": "Adalon"
+  },
+  "0x060000000053BA65": {
+    "name": "Tessjojo"
+  },
+  "0x060000000071D195": {
+    "name": "Belfindemand"
+  },
+  "0x060000000074884D": {
+    "name": "Drakonico"
+  },
+  "0x06000000004A02A2": {
+    "name": "Dabosslol"
+  },
+  "0x060000000075A84B": {
+    "name": "Daesh"
+  },
+  "0x060000000077456C": {
+    "name": "Chsv"
+  },
+  "0x06000000007152B2": {
+    "name": "Noctiriel"
+  },
+  "0x06000000004D5C49": {
+    "name": "Tripoloska"
+  },
+  "0x06000000007440BE": {
+    "name": "Gondaron"
+  },
+  "0xF14027EAD501B94D": {
+    "name": "Inconnu"
+  },
+  "0x06000000006D35B4": {
+    "name": "Gahik"
+  },
+  "0x0600000000726820": {
+    "name": "Palawu"
+  },
+  "0xF1402712AB01B99E": {
+    "name": "Fzuugrym",
+    "master_name": "Alesarion",
+    "master_guid": "0x060000000075B03F"
+  },
+  "0x060000000060A787": {
+    "name": "Zylla"
+  },
+  "0x06000000007306A0": {
+    "name": "Bko"
+  },
+  "0x060000000075946E": {
+    "name": "Prikito"
+  },
+  "0x06000000006DE5EC": {
+    "name": "Rainetic"
+  },
+  "0x0600000000622C03": {
+    "name": "Playsonic"
+  },
+  "0xF140246DC201B9A6": {
+    "name": "Fang"
+  },
+  "0x0600000000606036": {
+    "name": "Aces"
+  },
+  "0x06000000005D0994": {
+    "name": "Okboomber"
+  },
+  "0x06000000004BB1ED": {
+    "name": "Bable"
+  },
+  "0x0600000000366F0A": {
+    "name": "Tyrean"
+  },
+  "0x0600000000752147": {
+    "name": "Ciasteczkowa"
+  },
+  "0x060000000062D243": {
+    "name": "Sneaked"
+  },
+  "0x060000000076E108": {
+    "name": "Plagegeist"
+  },
+  "0x060000000053CB80": {
+    "name": "Riddlestick"
+  },
+  "0x0700000000BCBB10": {
+    "name": "Inconnu"
+  },
+  "0x0600000000761A33": {
+    "name": "Agrasive"
+  },
+  "0x060000000020F1F8": {
+    "name": "Suppuration"
+  },
+  "0x06000000006DD6DB": {
+    "name": "Sweps"
+  },
+  "0x060000000064806A": {
+    "name": "Necralordius"
+  },
+  "0x06000000006D716B": {
+    "name": "Sicariuz"
+  },
+  "0x0600000000656EE0": {
+    "name": "Jonsonjonson"
+  },
+  "0x060000000070EFCA": {
+    "name": "Diox"
+  },
+  "0xF140261D6B01B881": {
+    "name": "Gravelchomp"
+  },
+  "0x060000000069F8A5": {
+    "name": "Wertyqlatork"
+  },
+  "0x06000000002AF157": {
+    "name": "Shiftox"
+  },
+  "0xF14026F4FF01B951": {
+    "name": "Pebblestealer"
+  },
+  "0xF1300002D10509D8": {
+    "name": "Lapin"
+  },
+  "0x06000000006DD321": {
+    "name": "Warragepal"
+  },
+  "0x0600000000673780": {
+    "name": "Reimi"
+  },
+  "0xF1300080460516E4": {
+    "name": "Minigob Manafrappe"
+  },
+  "0x060000000072C3DA": {
+    "name": "Thanatila"
+  },
+  "0x0600000000590D98": {
+    "name": "Paraffin"
+  },
+  "0x060000000076140F": {
+    "name": "Cryeverytime"
+  },
+  "0xF1300073C8000442": {
+    "name": "Josie Bouillard"
+  },
+  "0xF130007F8B0004C6": {
+    "name": "Garde du bouclier de Dalaran blessé"
+  },
+  "0x0600000000733EA5": {
+    "name": "Fiounaa"
+  },
+  "0x06000000005DEEE6": {
+    "name": "Norsk"
+  },
+  "0x06000000006D44DA": {
+    "name": "Zurino"
+  },
+  "0x0600000000731A55": {
+    "name": "Fikcija"
+  },
+  "0x060000000073FF71": {
+    "name": "Benecditoxvi"
+  },
+  "0x06000000006FF15B": {
+    "name": "Switch"
+  },
+  "0x060000000068D11F": {
+    "name": "Baranja"
+  },
+  "0x060000000064905A": {
+    "name": "Tiochico"
+  },
+  "0x060000000076D47E": {
+    "name": "Confusedbabe"
+  },
+  "0x06000000004F6520": {
+    "name": "Halybut"
+  },
+  "0x06000000007789C6": {
+    "name": "Hecttor"
+  },
+  "0x0600000000766722": {
+    "name": "Durai"
+  },
+  "0x0600000000711894": {
+    "name": "Apostrol"
+  },
+  "0x060000000068F711": {
+    "name": "Negobubble"
+  },
+  "0x0600000000289FC6": {
+    "name": "Meowmeow"
+  },
+  "0x0600000000774B6B": {
+    "name": "Zerosolitude"
+  },
+  "0x060000000076EE7F": {
+    "name": "Zeisa"
+  },
+  "0x06000000006246C2": {
+    "name": "Rankor"
+  },
+  "0x060000000034C2FD": {
+    "name": "Morphan"
+  },
+  "0x06000000002E07AB": {
+    "name": "Kovoshrotix"
+  },
+  "0x060000000077E04C": {
+    "name": "Betronix"
+  },
+  "0x06000000006B245D": {
+    "name": "Salys"
+  },
+  "0x060000000073C438": {
+    "name": "Manoxs"
+  },
+  "0x060000000059E257": {
+    "name": "Vyx"
+  },
+  "0x060000000077B184": {
+    "name": "Hexaria"
+  },
+  "0x0600000000495676": {
+    "name": "Tarrosh"
+  },
+  "0x06000000006E9D28": {
+    "name": "Shadowsyka"
+  },
+  "0x0600000000653D0F": {
+    "name": "Phionax"
+  },
+  "0x06000000003D5DE8": {
+    "name": "Dusklander"
+  },
+  "0x0600000000768DEA": {
+    "name": "Mellen"
+  },
+  "0x060000000077BC60": {
+    "name": "Raven"
+  },
+  "0x06000000000D2157": {
+    "name": "Dannathon"
+  },
+  "0x060000000037F9D1": {
+    "name": "Laah"
+  },
+  "0x0600000000687B4C": {
+    "name": "Mantys"
+  },
+  "0x0600000000783C1E": {
+    "name": "Icmivric"
+  },
+  "0x060000000077C35D": {
+    "name": "Griever"
+  },
+  "0x0600000000475C98": {
+    "name": "Kalasnjikov"
+  },
+  "0xF14027CBC601B9B2": {
+    "name": "Fang"
+  },
+  "0x06000000002BDBCB": {
+    "name": "Skyseeker"
+  },
+  "0x0600000000358E3D": {
+    "name": "Theborg"
+  },
+  "0xF130007247000644": {
+    "name": "Mage gardien saccage-soleil"
+  },
+  "0x0600000000574DBB": {
+    "name": "Faralanne"
+  },
+  "0xF1300080460516FC": {
+    "name": "Minigob Manafrappe"
+  },
+  "0x0600000000761681": {
+    "name": "Jheiden"
+  },
+  "0x060000000075C003": {
+    "name": "Feralmane"
+  },
+  "0x06000000006C39B8": {
+    "name": "Bemby"
+  },
+  "0x0600000000778E27": {
+    "name": "Iolololol"
+  },
+  "0x0600000000746F2C": {
+    "name": "Mandovoshka"
+  },
+  "0x060000000075BBF1": {
+    "name": "Zoyboi"
+  },
+  "0x060000000077AE9B": {
+    "name": "Kinrie"
+  },
+  "0x06000000004DD648": {
+    "name": "Rhonelys"
+  },
+  "0x0600000000689554": {
+    "name": "Decapitater"
+  },
+  "0x0600000000766C5E": {
+    "name": "Patrunjell"
+  },
+  "0x060000000077C5B7": {
+    "name": "Sanya"
+  },
+  "0x0600000000762057": {
+    "name": "Ecofriendly"
+  },
+  "0x0600000000774C0C": {
+    "name": "Jstb"
+  },
+  "0x060000000076C451": {
+    "name": "Glazurnik"
+  },
+  "0x060000000072CDE8": {
+    "name": "Discotheque"
+  },
+  "0x06000000006CADBA": {
+    "name": "Sonnja"
+  },
+  "0x06000000000B2AC9": {
+    "name": "Karanlik"
+  },
+  "0x06000000006FCD46": {
+    "name": "Chimo"
+  },
+  "0x0600000000733747": {
+    "name": "Invasmani"
+  },
+  "0x0600000000761AA5": {
+    "name": "Annya"
+  },
+  "0x060000000043C355": {
+    "name": "Laboomboom"
+  },
+  "0x0600000000769CFC": {
+    "name": "Isotheone"
+  },
+  "0xF130007247000647": {
+    "name": "Mage gardien saccage-soleil"
+  },
+  "0x06000000003B3F2E": {
+    "name": "Dranbarnu"
+  },
+  "0x0600000000719161": {
+    "name": "Zeratysta"
+  },
+  "0xF14027014A01B9A1": {
+    "name": "Inconnu"
+  },
+  "0x06000000005C8B68": {
+    "name": "Lae"
+  },
+  "0x060000000065B2D7": {
+    "name": "Locrainret"
+  },
+  "0x0600000000732163": {
+    "name": "Matheyus"
+  },
+  "0x06000000006EACC4": {
+    "name": "Serenitynow"
+  },
+  "0xF130007247000427": {
+    "name": "Mage gardien saccage-soleil"
+  },
+  "0xF14019A0CB01B9BA": {
+    "name": "Stoneflayer"
+  },
+  "0x06000000003D51A4": {
+    "name": "Shadowscourg"
+  },
+  "0x060000000073A81E": {
+    "name": "Chegameshow"
+  },
+  "0x0600000000772DFA": {
+    "name": "Laffemagus"
+  },
+  "0x060000000068EDF7": {
+    "name": "Kokcukjkee"
+  },
+  "0xF130008046051718": {
+    "name": "Minigob Manafrappe"
+  },
+  "0x0600000000558D36": {
+    "name": "Oggar"
+  },
+  "0x0600000000755DF6": {
+    "name": "Cabbage"
+  },
+  "0x06000000003D7D0B": {
+    "name": "Nuubest"
+  },
+  "0xF130008B3A051598": {
+    "name": "Jeeves"
+  },
+  "0x0600000000742702": {
+    "name": "Viciousbish"
+  },
+  "0x06000000004DBE17": {
+    "name": "Notpotato"
+  },
+  "0x060000000074AD3E": {
+    "name": "Prangijaa"
+  },
+  "0x0600000000661CCA": {
+    "name": "Rou"
+  },
+  "0xF14026E95801B9BF": {
+    "name": "Marshmallow"
+  },
+  "0x06000000006B27A6": {
+    "name": "Ridherx"
+  },
+  "0x0700000000A411AD": {
+    "name": "Inconnu"
+  },
+  "0x060000000042D211": {
+    "name": "Hailscorn"
+  },
+  "0x060000000042F4F9": {
+    "name": "Glorenzelg"
+  },
+  "0x0600000000778908": {
+    "name": "Hilarybuff"
+  },
+  "0x0600000000784969": {
+    "name": "Vandaval"
+  },
+  "0x060000000074843E": {
+    "name": "Snance"
+  },
+  "0x060000000077415E": {
+    "name": "Rycerzkrwi"
+  },
+  "0x0600000000711712": {
+    "name": "Deneris"
+  },
+  "0x06000000005C213C": {
+    "name": "Bromane"
+  },
+  "0x060000000030177A": {
+    "name": "Deynn"
+  },
+  "0x060000000075D6E5": {
+    "name": "Atanasowa"
+  },
+  "0x0A00000000C9D4E3": {
+    "name": "Inconnu"
+  },
+  "0x060000000076185F": {
+    "name": "Filnzarlek"
+  },
+  "0x0A00000000C94FB2": {
+    "name": "Inconnu"
+  },
+  "0x0600000000779429": {
+    "name": "Druidedekaz"
+  },
+  "0x060000000076CB90": {
+    "name": "Holytank"
+  },
+  "0x060000000076B46F": {
+    "name": "Delulu"
+  },
+  "0x060000000075C6B9": {
+    "name": "Ordo"
+  },
+  "0x060000000074BEFA": {
+    "name": "Noranti"
+  },
+  "0x060000000055C2A4": {
+    "name": "Idara"
+  },
+  "0x0600000000735274": {
+    "name": "Vakito"
+  },
+  "0x06000000007243AC": {
+    "name": "Kumklat"
+  },
+  "0x06000000007017BD": {
+    "name": "Nivme"
+  },
+  "0xF1402768E101B9C5": {
+    "name": "Wolf"
+  },
+  "0x06000000006F494A": {
+    "name": "Ryaska"
+  },
+  "0x06000000004BE79E": {
+    "name": "Allorus"
+  },
+  "0x06000000006246B7": {
+    "name": "Irroke"
+  },
+  "0x060000000040214D": {
+    "name": "Cukrik"
+  },
+  "0x0600000000355035": {
+    "name": "Moryen"
+  },
+  "0x06000000005122AF": {
+    "name": "Coperfield"
+  },
+  "0x06000000002FD2B4": {
+    "name": "Liree"
+  },
+  "0x06000000006A3F09": {
+    "name": "Crixma"
+  },
+  "0x06000000002ECE17": {
+    "name": "Serine"
+  },
+  "0x0600000000224895": {
+    "name": "Nussdorf"
+  },
+  "0xF140271A9A01B9C9": {
+    "name": "Wolf",
+    "master_name": "Liree",
+    "master_guid": "0x06000000002FD2B4"
+  },
+  "0x060000000003721F": {
+    "name": "Lykos"
+  },
+  "0x060000000068E826": {
+    "name": "Dzuki"
+  },
+  "0x060000000055EA62": {
+    "name": "Donotlimit"
+  },
+  "0x060000000074B92D": {
+    "name": "Tiovladi"
+  },
+  "0x060000000077B591": {
+    "name": "Dhailos"
+  },
+  "0x06000000006E1152": {
+    "name": "Lilacow"
+  },
+  "0x0600000000286BD7": {
+    "name": "Fristand"
+  },
+  "0xF14027F7F201B9CC": {
+    "name": "Traafenn"
+  },
+  "0x0600000000342A7A": {
+    "name": "Katmando"
+  },
+  "0xF14027F12C01B9CE": {
+    "name": "TABURET"
+  },
+  "0x060000000076F8FB": {
+    "name": "Mattias"
+  },
+  "0x06000000006E9A08": {
+    "name": "Westalia"
+  },
+  "0x06000000002D47DD": {
+    "name": "Murmaiden"
+  },
+  "0x0600000000714F19": {
+    "name": "Zuu"
+  },
+  "0x060000000048B26F": {
+    "name": "Flappysaur"
+  },
+  "0x0600000000740C35": {
+    "name": "Dunnohow"
+  },
+  "0x0600000000563BEC": {
+    "name": "Icandi"
+  },
+  "0x06000000006E85AD": {
+    "name": "Negos"
+  },
+  "0x060000000068DC88": {
+    "name": "Crazybow"
+  },
+  "0x06000000007782EE": {
+    "name": "Kikis"
+  },
+  "0xF14026DDB901B9D2": {
+    "name": "Worg"
+  },
+  "0x060000000062AC00": {
+    "name": "Jacintos"
+  },
+  "0x060000000042B90F": {
+    "name": "Aliizee"
+  },
+  "0x06000000006F5F44": {
+    "name": "Aquina"
+  },
+  "0x0600000000779CE3": {
+    "name": "Hecromancer"
+  },
+  "0x0700000000327BB4": {
+    "name": "Inconnu"
+  },
+  "0xF14025B05701B9D4": {
+    "name": "Cryptbreaker"
+  },
+  "0x0600000000702249": {
+    "name": "Whitedk"
+  },
+  "0xF130008B3E05172C": {
+    "name": "Tunnel spatiotemporel",
+    "master_name": "Aquina",
+    "master_guid": "0x06000000006F5F44"
+  },
+  "0x06000000006857BB": {
+    "name": "Gestalat"
+  },
+  "0x06000000006D0BB8": {
+    "name": "Toisho"
+  },
+  "0xF1402199A201B9D0": {
+    "name": "Choco"
+  },
+  "0x060000000076652A": {
+    "name": "Serasel"
+  },
+  "0xF1400EB0A201B9D6": {
+    "name": "Shaathun",
+    "master_name": "Shinoda",
+    "master_guid": "0x06000000003F57EF"
+  },
+  "0x06000000003F57EF": {
+    "name": "Shinoda"
+  },
+  "0x0600000000472487": {
+    "name": "Haos"
+  },
+  "0x06000000002DC1FB": {
+    "name": "Thore"
+  },
+  "0xF130008B3E051735": {
+    "name": "Tunnel spatiotemporel",
+    "master_name": "Thore",
+    "master_guid": "0x06000000002DC1FB"
+  },
+  "0x060000000075AB72": {
+    "name": "Ahristocracy"
+  },
+  "0x060000000070D2D6": {
+    "name": "Letmeeiin"
+  },
+  "0x06000000006DAA07": {
+    "name": "Ryken"
+  },
+  "0x060000000077ACD6": {
+    "name": "Shamen"
+  },
+  "0x060000000067419E": {
+    "name": "Fairtn"
+  },
+  "0x06000000003C8CEF": {
+    "name": "Bloodypriest"
+  },
+  "0x06000000006D3858": {
+    "name": "Vaskojabata"
+  },
+  "0x060000000074A353": {
+    "name": "Chachmet"
+  },
+  "0x06000000004E40BA": {
+    "name": "Urge"
+  },
+  "0x060000000072C6E5": {
+    "name": "Barzi"
+  },
+  "0x06000000003EBCD7": {
+    "name": "Caledorian"
+  },
+  "0x060000000075D105": {
+    "name": "Yncv"
+  },
+  "0xF130007DAA0006BA": {
+    "name": "Magistère Surdiel"
+  },
+  "0x060000000039249D": {
+    "name": "Misyra"
+  },
+  "0x0600000000767092": {
+    "name": "Pesterrot"
+  },
+  "0xF14027CBCA01B9DD": {
+    "name": "Traafenn"
+  },
+  "0x0600000000767179": {
+    "name": "Bloodrock"
+  },
+  "0xF1402199A201B9DF": {
+    "name": "Choco"
+  },
+  "0xF130007247000697": {
+    "name": "Mage gardien saccage-soleil"
+  },
+  "0x060000000036AA10": {
+    "name": "Headshotz"
+  },
+  "0x0600000000671260": {
+    "name": "Gavrr"
+  },
+  "0xF1300077A000013E": {
+    "name": "Visage tordu"
+  },
+  "0x060000000076CD06": {
+    "name": "Dobenm"
+  },
+  "0x060000000074AF23": {
+    "name": "Influenza"
+  },
+  "0x0600000000766634": {
+    "name": "Naturra"
+  },
+  "0x0600000000555202": {
+    "name": "Ursinka"
+  },
+  "0x060000000077EEBE": {
+    "name": "Meddoc"
+  },
+  "0x06000000007616EE": {
+    "name": "Kerit"
+  },
+  "0x06000000006BF06C": {
+    "name": "Wra"
+  },
+  "0x060000000076BBB9": {
+    "name": "Matievo"
+  },
+  "0x0600000000536D59": {
+    "name": "Dirya"
+  },
+  "0x06000000006DBFB7": {
+    "name": "Dauntaunt"
+  },
+  "0x06000000006E8D5C": {
+    "name": "Yiguimon"
+  },
+  "0x06000000006AFA9E": {
+    "name": "Druiditis"
+  },
+  "0x060000000063054F": {
+    "name": "Varnir"
+  },
+  "0x0A00000000A9C480": {
+    "name": "Inconnu"
+  },
+  "0x06000000006E1FA2": {
+    "name": "Nightveil"
+  },
+  "0xF14027684D01B9EA": {
+    "name": "Bruudon"
+  },
+  "0x0600000000609C82": {
+    "name": "Raptite"
+  },
+  "0x06000000007661BB": {
+    "name": "Abyssing"
+  },
+  "0x06000000005C124E": {
+    "name": "Snowchant"
+  },
+  "0x060000000038CB98": {
+    "name": "Farterarter"
+  },
+  "0x060000000077CA05": {
+    "name": "Throwit"
+  },
+  "0x06000000006D1C0D": {
+    "name": "Kiziamizia"
+  },
+  "0x0600000000717E7C": {
+    "name": "Bakeer"
+  },
+  "0x06000000006BE6FC": {
+    "name": "Raidenkr"
+  },
+  "0x06000000004E7FB0": {
+    "name": "Raudhur"
+  },
+  "0x06000000007169B6": {
+    "name": "Akcija"
+  },
+  "0xF130008046051742": {
+    "name": "Minigob Manafrappe"
+  },
+  "0x0600000000758E32": {
+    "name": "Gharrek"
+  },
+  "0x06000000002572FF": {
+    "name": "Veraecrucis"
+  },
+  "0x0600000000486E0E": {
+    "name": "Flashignite"
+  },
+  "0x060000000059CB5B": {
+    "name": "Ultromos"
+  },
+  "0x06000000006B31F4": {
+    "name": "Fabyola"
+  },
+  "0x06000000006CC951": {
+    "name": "Jiriu"
+  },
+  "0x0600000000773A2A": {
+    "name": "Dilirium"
+  },
+  "0x060000000014EC62": {
+    "name": "Tavvab"
+  },
+  "0x06000000004E46EF": {
+    "name": "Ainas"
+  },
+  "0x06000000007670DC": {
+    "name": "Holyskillz"
+  },
+  "0x060000000074D9BD": {
+    "name": "Bulldog"
+  },
+  "0x06000000003F5D25": {
+    "name": "Lowboy"
+  },
+  "0x06000000006A8D5B": {
+    "name": "Madababa"
+  },
+  "0x06000000006AA5F3": {
+    "name": "Stund"
+  },
+  "0x060000000042A84C": {
+    "name": "Laurin"
+  },
+  "0x06000000007784DF": {
+    "name": "Igepal"
+  },
+  "0xF14027BB9B01B9FC": {
+    "name": "Haadhun",
+    "master_name": "Madababa",
+    "master_guid": "0x06000000006A8D5B"
+  },
+  "0x060000000070AC65": {
+    "name": "Bababoom"
+  },
+  "0x060000000071DFF1": {
+    "name": "Dandalf"
+  },
+  "0x0600000000610E4E": {
+    "name": "Limber"
+  },
+  "0x06000000002E3354": {
+    "name": "Demonya"
+  },
+  "0xF1400EA78301B9F7": {
+    "name": "Pebblekeeper"
+  },
+  "0x06000000007791E1": {
+    "name": "Bogibatina"
+  },
+  "0x0600000000780FD0": {
+    "name": "Xenrii"
+  },
+  "0x060000000060A5E7": {
+    "name": "Yonimudra"
+  },
+  "0x06000000006F47C5": {
+    "name": "Grandprix"
+  },
+  "0x06000000004FF92C": {
+    "name": "Niikca"
+  },
+  "0x0600000000523BA0": {
+    "name": "Koshiyafm"
+  },
+  "0x060000000070FDBF": {
+    "name": "Kayrabanks"
+  },
+  "0xF14026EDF201BA01": {
+    "name": "Sausage",
+    "master_name": "Trinitatiss",
+    "master_guid": "0x060000000065209C"
+  },
+  "0x060000000065209C": {
+    "name": "Trinitatiss"
+  },
+  "0x060000000069A0F3": {
+    "name": "Biskivit"
+  },
+  "0x06000000007502F5": {
+    "name": "Mkultra"
+  },
+  "0x060000000054516A": {
+    "name": "Sekanina"
+  },
+  "0xF1402768E101BA03": {
+    "name": "Wolf"
+  },
+  "0x0600000000771844": {
+    "name": "Bubb"
+  },
+  "0x06000000007413DB": {
+    "name": "Apeph"
+  },
+  "0x06000000005F3C82": {
+    "name": "Lorien"
+  },
+  "0x0600000000498BDF": {
+    "name": "Tomatoyan"
+  },
+  "0x06000000006EB8A2": {
+    "name": "Trashyviolet"
+  },
+  "0x06000000007686BC": {
+    "name": "Albombe"
+  },
+  "0x06000000007584BE": {
+    "name": "Liza"
+  },
+  "0x060000000074F741": {
+    "name": "Blerina"
+  },
+  "0x06000000006E67D3": {
+    "name": "Spaz"
+  },
+  "0x0600000000567A95": {
+    "name": "Papashady"
+  },
+  "0x060000000075FBE3": {
+    "name": "Summers"
+  },
+  "0xF14026EDF201BA07": {
+    "name": "Sausage",
+    "master_name": "Trinitatiss",
+    "master_guid": "0x060000000065209C"
+  },
+  "0x0600000000736CCC": {
+    "name": "Frozzenn"
+  },
+  "0xF14025EC4501BA09": {
+    "name": "Tombkeeper"
+  },
+  "0x06000000003492B5": {
+    "name": "Abarred"
+  },
+  "0x0600000000760961": {
+    "name": "Ssii"
+  },
+  "0x0600000000479A65": {
+    "name": "Sllipknot"
+  },
+  "0x060000000073BC56": {
+    "name": "Muddenstein"
+  },
+  "0x0600000000687F4E": {
+    "name": "Verdandi"
+  },
+  "0x0600000000759A0E": {
+    "name": "Isis"
+  },
+  "0x060000000073671A": {
+    "name": "Adiiges"
+  },
+  "0x0600000000439009": {
+    "name": "Aaldevaran"
+  },
+  "0xF1402528D600000C": {
+    "name": "Inconnu"
+  },
+  "0x060000000057F122": {
+    "name": "Olean"
+  },
+  "0xF130000584051732": {
+    "name": "Ecureuil"
+  },
+  "0x060000000071F0FA": {
+    "name": "Aemilia"
+  },
+  "0x06000000002AFB47": {
+    "name": "Sorcery"
+  },
+  "0x06000000003C8FE6": {
+    "name": "Melanholija"
+  },
+  "0x0600000000437200": {
+    "name": "Neurobionic"
+  },
+  "0x0600000000507595": {
+    "name": "Singer"
+  },
+  "0x06000000006E961E": {
+    "name": "Toxicpriest"
+  },
+  "0x06000000006EB81A": {
+    "name": "Voodooblink"
+  },
+  "0x060000000061557D": {
+    "name": "Mordrathis"
+  },
+  "0x060000000075F444": {
+    "name": "Danadinhaa"
+  },
+  "0x0600000000767178": {
+    "name": "Beparel"
+  },
+  "0x0600000000773D87": {
+    "name": "Atlaslegacy"
+  },
+  "0x0600000000724833": {
+    "name": "Chinnamoroll"
+  },
+  "0x060000000077101D": {
+    "name": "Minios"
+  },
+  "0xF14023B43F01BA18": {
+    "name": "Gucio"
+  },
+  "0x060000000077A707": {
+    "name": "Selenagores"
+  },
+  "0x0600000000758615": {
+    "name": "Bonuskill"
+  },
+  "0x06000000006EE9CB": {
+    "name": "Smyrtus"
+  },
+  "0xF14025EC4501BA1B": {
+    "name": "Tombkeeper"
+  },
+  "0x060000000073AB2B": {
+    "name": "Kurzajka"
+  },
+  "0xF130008046051759": {
+    "name": "Minigob Manafrappe"
+  },
+  "0x060000000077B3C3": {
+    "name": "Torturadorr"
+  },
+  "0x0600000000597D31": {
+    "name": "Canabia"
+  },
+  "0x060000000075743A": {
+    "name": "Tukutaba"
+  },
+  "0x0600000000614220": {
+    "name": "Snehurka"
+  },
+  "0x060000000078142A": {
+    "name": "Beliarr"
+  },
+  "0x060000000077B66B": {
+    "name": "Ksoumas"
+  },
+  "0x06000000003BD79F": {
+    "name": "Lunalaguuna"
+  },
+  "0x060000000073B40D": {
+    "name": "Kebder"
+  },
+  "0x0600000000692D22": {
+    "name": "Pyrusdragon"
+  },
+  "0x06000000004BBB1A": {
+    "name": "Dreamkill"
+  },
+  "0x06000000006E0180": {
+    "name": "Sadismo"
+  },
+  "0xF140161AEA01BA20": {
+    "name": "Putito",
+    "master_name": "Elgeimanco",
+    "master_guid": "0x0600000000453FAB"
+  },
+  "0x0600000000453FAB": {
+    "name": "Elgeimanco"
+  },
+  "0x0600000000498CE4": {
+    "name": "Cloudhole"
+  },
+  "0xF14025EC4501BA23": {
+    "name": "Tombkeeper"
+  },
+  "0x0600000000595962": {
+    "name": "Nylarya"
+  },
+  "0x06000000006D6C69": {
+    "name": "Fallenstone"
+  },
+  "0x060000000065F717": {
+    "name": "Derbbin"
+  },
+  "0x060000000076BE12": {
+    "name": "Azim"
+  },
+  "0x060000000050889D": {
+    "name": "Eyesburn"
+  },
+  "0x06000000006F3398": {
+    "name": "Sheakspeer"
+  },
+  "0x0600000000718B56": {
+    "name": "Fantagero"
+  },
+  "0x060000000074793F": {
+    "name": "Buhaj"
+  },
+  "0x060000000063D10D": {
+    "name": "Arthin"
+  },
+  "0x060000000067FD87": {
+    "name": "Steinr"
+  },
+  "0x06000000006EFE13": {
+    "name": "Buffs"
+  },
+  "0xF14025EC4501BA28": {
+    "name": "Tombkeeper"
+  },
+  "0x0600000000661D01": {
+    "name": "Starglider"
+  },
+  "0x060000000076AE84": {
+    "name": "Notsuitp"
+  },
+  "0x0600000000748645": {
+    "name": "Nazeri"
+  },
+  "0x06000000006EA22C": {
+    "name": "Blazr"
+  },
+  "0x0600000000651653": {
+    "name": "Stormgehrtx"
+  },
+  "0x060000000057A7EE": {
+    "name": "Donverga"
+  },
+  "0x06000000005CAB77": {
+    "name": "Masiwko"
+  },
+  "0x060000000076992A": {
+    "name": "Kandia"
+  },
+  "0x0600000000769C0B": {
+    "name": "Ceedra"
+  },
+  "0xF14027F365023BDB": {
+    "name": "Haahom"
+  },
+  "0x0600000000775BA2": {
+    "name": "Kelthemar"
+  },
+  "0x0600000000783B3E": {
+    "name": "Kastrichnik"
+  },
+  "0x060000000077E889": {
+    "name": "Mizuiro"
+  },
+  "0x060000000076EA6C": {
+    "name": "Billie"
+  },
+  "0x0600000000784761": {
+    "name": "Shmrkalj"
+  },
+  "0x0600000000757831": {
+    "name": "Langoreth"
+  },
+  "0x0600000000702B6C": {
+    "name": "Evillpriest"
+  },
+  "0x0600000000767CD8": {
+    "name": "Ttubruja"
+  },
+  "0x06000000007804C8": {
+    "name": "Dezsike"
+  },
+  "0x06000000006C229E": {
+    "name": "Instinkt"
+  },
+  "0x06000000005B0C8A": {
+    "name": "Mishkoran"
+  },
+  "0xF11002840C07DB86": {
+    "name": "Piège givrant II"
+  },
+  "0x0600000000376EE5": {
+    "name": "Ripstone"
+  },
+  "0x060000000077DEE5": {
+    "name": "Nazgre"
+  },
+  "0x06000000005A0984": {
+    "name": "Talador"
+  },
+  "0xF1300022141F2B7A": {
+    "name": "Commissaire-priseur Wabang"
+  },
+  "0xF1300026801F2B0C": {
+    "name": "Commissaire-priseur Grimful"
+  },
+  "0xF1300021E11F2B19": {
+    "name": "Commissaire-priseur Thathung"
+  },
+  "0x0600000000076D18": {
+    "name": "Kutterwsh"
+  },
+  "0xF1402803BD023BFF": {
+    "name": "Dagham"
+  },
+  "0x0600000000784E36": {
+    "name": "Vojtovan"
+  },
+  "0x060000000077BEC2": {
+    "name": "Evolettea"
+  },
+  "0x060000000077D44E": {
+    "name": "Blascomir"
+  },
+  "0x06000000007438CE": {
+    "name": "Kurat"
+  },
+  "0xF14027F7F6023C0F": {
+    "name": "Wolf",
+    "master_name": "Xenrii",
+    "master_guid": "0x0600000000780FD0"
+  },
+  "0x060000000077DEE8": {
+    "name": "Dstary"
+  },
+  "0x0600000000741D7D": {
+    "name": "Chukcha"
+  },
+  "0x0600000000449053": {
+    "name": "Flwkos"
+  },
+  "0xF14026B6A3023B33": {
+    "name": "Bubino"
+  },
+  "0xF1401E01F7023B71": {
+    "name": "Inconnu",
+    "master_name": "Masiwko",
+    "master_guid": "0x06000000005CAB77"
+  },
+  "0x0600000000712F92": {
+    "name": "Furiostorm"
+  },
+  "0x060000000077A074": {
+    "name": "Multivers"
+  },
+  "0xF1300022141F2DE7": {
+    "name": "Commissaire-priseur Wabang"
+  },
+  "0x0600000000783BF6": {
+    "name": "Schwarzmik"
+  },
+  "0x06000000007634E8": {
+    "name": "Farevo"
+  },
+  "0xF1401E01F7023C22": {
+    "name": "Inconnu",
+    "master_name": "Masiwko",
+    "master_guid": "0x06000000005CAB77"
+  },
+  "0x0600000000469605": {
+    "name": "Serbhooligan"
+  },
+  "0x06000000003DB725": {
+    "name": "Kelvala"
+  },
+  "0x0700000000689B1C": {
+    "name": "Inconnu"
+  },
+  "0x0700000000BC7790": {
+    "name": "Inconnu"
+  },
+  "0xF1402056BD023C2F": {
+    "name": "Guapuru"
+  },
+  "0x07000000005A3218": {
+    "name": "Inconnu"
+  },
+  "0x0700000000488857": {
+    "name": "Inconnu"
+  },
+  "0x07000000003ABE65": {
+    "name": "Inconnu"
+  },
+  "0x070000000001015D": {
+    "name": "Inconnu"
+  },
+  "0x06000000003821FC": {
+    "name": "Minfei"
+  },
+  "0xF1402803BD023BE8": {
+    "name": "Inconnu"
+  },
+  "0x0600000000785385": {
+    "name": "Varientzai"
+  },
+  "0x060000000078378F": {
+    "name": "Paqk"
+  },
+  "0xF1400F1295023A96": {
+    "name": "Abatip"
+  },
+  "0xF130006E3CF177A0": {
+    "name": "Cadavre à engelures"
+  },
+  "0xF130006E3AF177F1": {
+    "name": "Goule brûleglace"
+  },
+  "0x0600000000765B16": {
+    "name": "Bosna"
+  },
+  "0x0600000000287010": {
+    "name": "Mishok"
+  },
+  "0x06000000006C9474": {
+    "name": "Vengancee"
+  },
+  "0x06000000006EF693": {
+    "name": "Wellain"
+  },
+  "0x07000000006BAEA3": {
+    "name": "Inconnu"
+  },
+  "0x07000000005A24BB": {
+    "name": "Inconnu"
+  },
+  "0x07000000002B7E50": {
+    "name": "Inconnu"
+  },
+  "0x060000000078162A": {
+    "name": "Thagrot"
+  },
+  "0x0600000000785EAB": {
+    "name": "Nua"
+  },
+  "0x060000000077B945": {
+    "name": "Dukynho"
+  },
+  "0x060000000078596C": {
+    "name": "Mirrox"
+  },
+  "0xF13000164D000003": {
+    "name": "Ombre d'Eranikus"
+  },
+  "0x060000000077E92E": {
+    "name": "Cubka"
+  },
+  "0xF1402814E2000002": {
+    "name": "Inconnu"
+  },
+  "0x060000000078252A": {
+    "name": "Suljin"
+  },
+  "0x06000000007857AD": {
+    "name": "Cyrah"
+  },
+  "0x06000000007186AB": {
+    "name": "Bisseps"
+  },
+  "0x06000000000B944B": {
+    "name": "Heblinks"
+  },
+  "0xF13000634CF0EC16": {
+    "name": "Mage du bastion Chanteguerre"
+  },
+  "0x060000000078569D": {
+    "name": "Lizunka"
+  },
+  "0x060000000077FB63": {
+    "name": "Idhya"
+  },
+  "0x060000000077E32C": {
+    "name": "Tauromakiato"
+  },
+  "0xF14023B43F023C59": {
+    "name": "Gucio",
+    "master_name": "Smyrtus",
+    "master_guid": "0x06000000006EE9CB"
+  },
+  "0x0600000000511E19": {
+    "name": "Celelan"
+  },
+  "0x0600000000769D85": {
+    "name": "Crispynugget"
+  },
+  "0xF130006DC0EDAC1A": {
+    "name": "Fonceur poing-dur"
+  },
+  "0x060000000078319C": {
+    "name": "Shimbabwe"
+  },
+  "0x0600000000781A13": {
+    "name": "Aliassopener"
+  },
+  "0xF1300019421F2F05": {
+    "name": "Gamon"
+  },
+  "0xF14017AF3D023C65": {
+    "name": "Ratbasher"
+  },
+  "0x0600000000756A04": {
+    "name": "Ganbit"
+  },
+  "0x060000000069B773": {
+    "name": "Evilldeath"
+  },
+  "0x060000000070B8EA": {
+    "name": "Djkanao"
+  },
+  "0x06000000006BAA5F": {
+    "name": "Novastar"
+  },
+  "0x060000000076E96A": {
+    "name": "Borsaendeksi"
+  },
+  "0x0600000000785E5A": {
+    "name": "Jivo"
+  },
+  "0x06000000007738BC": {
+    "name": "Spikebh"
+  },
+  "0xF1401E01F7023C70": {
+    "name": "Inconnu",
+    "master_name": "Masiwko",
+    "master_guid": "0x06000000005CAB77"
+  },
+  "0x0600000000782DCD": {
+    "name": "Protorius"
+  },
+  "0x070000000015186F": {
+    "name": "Inconnu"
+  },
+  "0x060000000071F7BC": {
+    "name": "Barbavore"
+  },
+  "0x0600000000782146": {
+    "name": "Valerica"
+  },
+  "0xF1401F5E11023C5B": {
+    "name": "Wolf"
+  },
+  "0x0600000000784A64": {
+    "name": "Fenrear"
+  },
+  "0x06000000005C4984": {
+    "name": "Fucsita"
+  },
+  "0xF1401F5E11023C79": {
+    "name": "Wolf"
+  },
+  "0x0600000000707519": {
+    "name": "Casius"
+  },
+  "0x0600000000711451": {
+    "name": "Jekipal"
+  },
+  "0x0600000000784066": {
+    "name": "Bohutafolife"
+  },
+  "0x07000000008B7EA2": {
+    "name": "Inconnu"
+  },
+  "0x060000000078400D": {
+    "name": "Yuria"
+  },
+  "0x060000000076BA3B": {
+    "name": "Viserra"
+  },
+  "0x0600000000742C0D": {
+    "name": "Jiroku"
+  },
+  "0x0600000000647643": {
+    "name": "Frumina"
+  },
+  "0x0600000000505A89": {
+    "name": "Vismaior"
+  },
+  "0x060000000077F5A6": {
+    "name": "Smic"
+  },
+  "0xF110007AD207DD55": {
+    "name": "Feu de camp basique"
+  },
+  "0xF14017AF3D023C7F": {
+    "name": "Ratbasher"
+  },
+  "0xF1401E246E023BBC": {
+    "name": "Inconnu"
+  },
+  "0xF14027BBBD023C86": {
+    "name": "Wolf",
+    "master_name": "Vosty",
+    "master_guid": "0x0600000000778620"
+  },
+  "0x0600000000778620": {
+    "name": "Vosty"
+  },
+  "0x0A00000000ADFBA3": {
+    "name": "Inconnu"
+  },
+  "0x06000000006C8EE0": {
+    "name": "Lilizinha"
+  },
+  "0x06000000007847FD": {
+    "name": "Northland"
+  },
+  "0x060000000078510D": {
+    "name": "Memaki"
+  },
+  "0xF1300044831F3116": {
+    "name": "Totem de courroux I"
+  },
+  "0x06000000007831C6": {
+    "name": "Vetaoxama"
+  },
+  "0x06000000007423FE": {
+    "name": "Kromsala"
+  },
+  "0x06000000006E5347": {
+    "name": "Faenara"
+  },
+  "0x0600000000670DA8": {
+    "name": "Kobashi"
+  },
+  "0x0600000000782AB7": {
+    "name": "Conegera"
+  },
+  "0x060000000077E98F": {
+    "name": "Veliahawk"
+  },
+  "0x0600000000770DB2": {
+    "name": "Nekrys"
+  },
+  "0x0600000000781A33": {
+    "name": "Brader"
+  },
+  "0xF1401E01F7023CA3": {
+    "name": "Inconnu",
+    "master_name": "Masiwko",
+    "master_guid": "0x06000000005CAB77"
+  },
+  "0x06000000007830AB": {
+    "name": "Miriada"
+  },
+  "0x0600000000437F92": {
+    "name": "Ryugo"
+  },
+  "0x060000000077BC21": {
+    "name": "Azogdefiler"
+  },
+  "0x060000000076AF58": {
+    "name": "Lasthunter"
+  },
+  "0x0600000000783466": {
+    "name": "Kaiseroso"
+  },
+  "0x0600000000783A35": {
+    "name": "Juser"
+  },
+  "0x06000000007814F7": {
+    "name": "Sefirozlol"
+  },
+  "0x060000000071A3E5": {
+    "name": "Pokojnica"
+  },
+  "0xF14027B2DB023CA9": {
+    "name": "Lato"
+  },
+  "0x060000000077C327": {
+    "name": "Chudyseba"
+  },
+  "0x0600000000693F60": {
+    "name": "Goldenblade"
+  },
+  "0xF14027B998023CB0": {
+    "name": "Dirtrumbler"
+  },
+  "0x060000000072EA44": {
+    "name": "Nqmamdmg"
+  },
+  "0x0600000000335E5A": {
+    "name": "Skyllex"
+  },
+  "0x060000000071D16F": {
+    "name": "Madhiss"
+  },
+  "0x0600000000755470": {
+    "name": "Hoztraz"
+  },
+  "0xF1401F5E11023CB8": {
+    "name": "Wolf",
+    "master_name": "Celelan",
+    "master_guid": "0x0600000000511E19"
+  },
+  "0x0600000000748FCD": {
+    "name": "Zbik"
+  },
+  "0x06000000006A6DC5": {
+    "name": "Trurario"
+  },
+  "0x0600000000770E0A": {
+    "name": "Elozasrancu"
+  },
+  "0x0600000000784381": {
+    "name": "Kimeokiss"
+  },
+  "0x060000000078048E": {
+    "name": "Krowateusz"
+  },
+  "0x0600000000782FA1": {
+    "name": "Andisek"
+  },
+  "0xF1400F1295023CC3": {
+    "name": "Abatip"
+  },
+  "0x06000000007826E5": {
+    "name": "Ashwillow"
+  },
+  "0x060000000035929F": {
+    "name": "Kiitkat"
+  },
+  "0x060000000077B7FF": {
+    "name": "Tauya"
+  },
+  "0xF130000CE01F2F33": {
+    "name": "Grunt d’Orgrimmar"
+  },
+  "0x06000000006DD246": {
+    "name": "Thornag"
+  },
+  "0xF14027C748023CD2": {
+    "name": "Marsik"
+  },
+  "0xF130000CE01F2ECE": {
+    "name": "Grunt d’Orgrimmar"
+  },
+  "0xF1401E246E023CD5": {
+    "name": "Lazgup"
+  },
+  "0xF1300026801F2E08": {
+    "name": "Commissaire-priseur Grimful"
+  },
+  "0x0600000000735638": {
+    "name": "Treesh"
+  },
+  "0x0600000000783AFA": {
+    "name": "Pyroengineer"
+  },
+  "0xF1300072501F3843": {
+    "name": "Esprit du loup",
+    "master_name": "Vengancee",
+    "master_guid": "0x06000000006C9474"
+  },
+  "0xF1300072501F3844": {
+    "name": "Esprit du loup",
+    "master_name": "Vengancee",
+    "master_guid": "0x06000000006C9474"
+  },
+  "0xF1300077BC1F3873": {
+    "name": "Totem de courroux II",
+    "master_name": "Hoztraz",
+    "master_guid": "0x0600000000755470"
+  },
+  "0xF130003C761F3874": {
+    "name": "Stoneclaw Totem VII",
+    "master_name": "Hoztraz",
+    "master_guid": "0x0600000000755470"
+  },
+  "0xF130003C811F3875": {
+    "name": "Mana Spring Totem V",
+    "master_name": "Hoztraz",
+    "master_guid": "0x0600000000755470"
+  },
+  "0xF130003C571F3876": {
+    "name": "Totem de courroux de l'air",
+    "master_name": "Hoztraz",
+    "master_guid": "0x0600000000755470"
+  },
+  "0xF130000CE01F2F62": {
+    "name": "Grunt d’Orgrimmar"
+  },
+  "0xF1300022141F2FEE": {
+    "name": "Commissaire-priseur Wabang"
+  },
+  "0x060000000076232D": {
+    "name": "Brayvia"
+  },
+  "0xF1300019421F3745": {
+    "name": "Gamon"
+  },
+  "0x06000000007345C3": {
+    "name": "Esab"
+  },
+  "0x0600000000782B42": {
+    "name": "Elxango"
+  },
+  "0xF11002CE9507DEEA": {
+    "name": "Piège à serpents"
+  },
+  "0x060000000075DBCC": {
+    "name": "Bifana"
+  },
+  "0x0600000000782819": {
+    "name": "Gungar"
+  },
+  "0x0600000000781E57": {
+    "name": "Rainy"
+  },
+  "0x0600000000733115": {
+    "name": "Severak"
+  },
+  "0x060000000067FD67": {
+    "name": "Pleiada"
+  },
+  "0xF14027C748023CF7": {
+    "name": "Marsik"
+  },
+  "0xF14017AF3D023CF9": {
+    "name": "Ratbasher"
+  },
+  "0xF14017AF3D023CFD": {
+    "name": "Ratbasher"
+  },
+  "0xF130003C7C1F39E8": {
+    "name": "Magma Totem V",
+    "master_name": "Vengancee",
+    "master_guid": "0x06000000006C9474"
+  },
+  "0x06000000007665CA": {
+    "name": "Janazarku"
+  },
+  "0xF140272078023D01": {
+    "name": "Zornip"
+  },
+  "0xF14017AF3D023D09": {
+    "name": "Ratbasher"
+  },
+  "0x06000000002BC6BB": {
+    "name": "Xenath"
+  },
+  "0x0600000000025984": {
+    "name": "Vykersis"
+  },
+  "0x06000000007816FA": {
+    "name": "Mutationmvp"
+  },
+  "0xF14017AF3D023D0C": {
+    "name": "Ratbasher"
+  },
+  "0xF14017AF3D023D12": {
+    "name": "Ratbasher"
+  },
+  "0xF140267388023D10": {
+    "name": "Khaadhum"
+  },
+  "0x06000000007438A6": {
+    "name": "Biggayorc"
+  },
+  "0x06000000007443FC": {
+    "name": "Wiglas"
+  },
+  "0x06000000005C0E10": {
+    "name": "Bpaha"
+  },
+  "0xF130001D281F3A66": {
+    "name": "Magma Totem II",
+    "master_name": "Mutationmvp",
+    "master_guid": "0x06000000007816FA"
+  },
+  "0x06000000007803A0": {
+    "name": "Carworon"
+  },
+  "0x0600000000784BD3": {
+    "name": "Deadaim"
+  },
+  "0x060000000044AB9F": {
+    "name": "Yanleyd"
+  },
+  "0xF1401F5E11023D28": {
+    "name": "Wolf"
+  },
+  "0xF140241C65023D2E": {
+    "name": "Arax",
+    "master_name": "Mekar",
+    "master_guid": "0x06000000006E2904"
+  },
+  "0x06000000006E2904": {
+    "name": "Mekar"
+  },
+  "0xF140241C6500005D": {
+    "name": "Arax",
+    "master_name": "Mekar",
+    "master_guid": "0x06000000006E2904"
+  },
+  "0x0700000000B64B48": {
+    "name": "Inconnu"
+  },
+  "0x0700000000B7ECB5": {
+    "name": "Inconnu"
+  },
+  "0x0700000000773E51": {
+    "name": "Inconnu"
+  },
+  "0xF14027D822023D30": {
+    "name": "KeK",
+    "master_name": "Mortok",
+    "master_guid": "0x060000000077D837"
+  },
+  "0x060000000077D837": {
+    "name": "Mortok"
+  },
+  "0x06000000005F33FC": {
+    "name": "Shirvala"
+  },
+  "0xF11000745807DFB8": {
+    "name": "Feu de camp basique"
+  },
+  "0xF110007AD207DFB9": {
+    "name": "Feu de camp basique"
+  },
+  "0x060000000077B661": {
+    "name": "Icyice"
+  },
+  "0xF130001D8D1F3C07": {
+    "name": "Cobra noir"
+  },
+  "0x07000000002B6E6E": {
+    "name": "Inconnu"
+  },
+  "0x0600000000495A91": {
+    "name": "Curucusi"
+  },
+  "0x0A00000000C9D945": {
+    "name": "Inconnu"
+  },
+  "0x07000000008829A0": {
+    "name": "Inconnu"
+  },
+  "0x07000000005F87B1": {
+    "name": "Inconnu"
+  },
+  "0x0700000000BEA361": {
+    "name": "Inconnu"
+  },
+  "0xF1402056BD023D3C": {
+    "name": "Guapuru"
+  },
+  "0x0700000000AE2EE2": {
+    "name": "Inconnu"
+  },
+  "0x0600000000781930": {
+    "name": "Piskota"
+  },
+  "0xF14027C10F023D3E": {
+    "name": "Bellop"
+  },
+  "0xF11002F5AB07DFEF": {
+    "name": "Train électrique"
+  },
+  "0x0600000000731E01": {
+    "name": "Nerfado"
+  },
+  "0x0600000000510A3B": {
+    "name": "Alkazer"
+  },
+  "0x06000000006BE17A": {
+    "name": "Trasherhead"
+  },
+  "0x0A000000009D4003": {
+    "name": "Inconnu"
+  },
+  "0x0700000000BF8720": {
+    "name": "Inconnu"
+  },
+  "0x0700000000AE9626": {
+    "name": "Inconnu"
+  },
+  "0x060000000074F533": {
+    "name": "Lichtmond"
+  },
+  "0x060000000061DF80": {
+    "name": "Dorina"
+  },
+  "0x060000000076FD28": {
+    "name": "Thethrongler"
+  },
+  "0xF1300077BD1F3D1C": {
+    "name": "Totem de courroux III",
+    "master_name": "Yanleyd",
+    "master_guid": "0x060000000044AB9F"
+  },
+  "0xF1300017191F3D1D": {
+    "name": "Totem de séisme",
+    "master_name": "Yanleyd",
+    "master_guid": "0x060000000044AB9F"
+  },
+  "0xF1300017241F3D1E": {
+    "name": "Totem de purification",
+    "master_name": "Yanleyd",
+    "master_guid": "0x060000000044AB9F"
+  },
+  "0xF130003C571F3D1F": {
+    "name": "Totem de courroux de l'air",
+    "master_name": "Yanleyd",
+    "master_guid": "0x060000000044AB9F"
+  },
+  "0x0600000000757849": {
+    "name": "Masii"
+  },
+  "0xF14027C10F000002": {
+    "name": "Inconnu"
+  },
+  "0x06000000006842D2": {
+    "name": "Chickenpizza"
+  },
+  "0x060000000077AF62": {
+    "name": "Stilldeadish"
+  },
+  "0x0600000000749E99": {
+    "name": "Mileanca"
+  },
+  "0x06000000007837B8": {
+    "name": "Druidtimur"
+  },
+  "0x0600000000784C24": {
+    "name": "Flamecaps"
+  },
+  "0x060000000077E1EF": {
+    "name": "Eusousombra"
+  },
+  "0x06000000006D0D4D": {
+    "name": "Mantisi"
+  },
+  "0x0A00000000C5E343": {
+    "name": "Inconnu"
+  },
+  "0x060000000076B369": {
+    "name": "Rukab"
+  },
+  "0x0600000000713C9F": {
+    "name": "Parcashunm"
+  },
+  "0x06000000002AFC93": {
+    "name": "Cencul"
+  },
+  "0x060000000077FFAD": {
+    "name": "Zulldrak"
+  },
+  "0x0600000000784DB8": {
+    "name": "Atoc"
+  },
+  "0xF14027F7F6023D7C": {
+    "name": "Wolf"
+  },
+  "0xF130000C9A1EC5FD": {
+    "name": "Scorpide corrompu"
+  },
+  "0xF130008B3E1F3FEF": {
+    "name": "Tunnel spatiotemporel",
+    "master_name": "Ryugo",
+    "master_guid": "0x0600000000437F92"
+  },
+  "0x060000000077C875": {
+    "name": "Spiritguide"
+  },
+  "0x060000000077D2F3": {
+    "name": "Hyperbeats"
+  },
+  "0x06000000007666BE": {
+    "name": "Nitoiu"
+  },
+  "0xF14027EA67023D9B": {
+    "name": "Gorefang",
+    "master_name": "Slaybane",
+    "master_guid": "0x060000000077DC2C"
+  },
+  "0x060000000077DC2C": {
+    "name": "Slaybane"
+  },
+  "0xF14027EA67023DA1": {
+    "name": "Gorefang",
+    "master_name": "Slaybane",
+    "master_guid": "0x060000000077DC2C"
+  },
+  "0xF1300093E91F4164": {
+    "name": "Groopy"
+  },
+  "0xF130006DDBF160B5": {
+    "name": "Excavateur de la KapitalRisk"
+  },
+  "0xF130006DDCF16093": {
+    "name": "Forban de la KapitalRisk"
+  },
+  "0xF14027EA67023DA8": {
+    "name": "Gorefang",
+    "master_name": "Slaybane",
+    "master_guid": "0x060000000077DC2C"
+  },
+  "0x06000000007617C5": {
+    "name": "Zerozp"
+  },
+  "0xF1402056BD01BB7E": {
+    "name": "Guapuru",
+    "master_name": "Curucusi",
+    "master_guid": "0x0600000000495A91"
+  },
+  "0x060000000077A3A4": {
+    "name": "Bossack"
+  },
+  "0x0600000000766700": {
+    "name": "Icemommy"
+  },
+  "0x060000000076D681": {
+    "name": "Lmairo"
+  },
+  "0x0600000000704F96": {
+    "name": "Qazwsxc"
+  },
+  "0x0600000000720F2A": {
+    "name": "Sandii"
+  },
+  "0x060000000064AA92": {
+    "name": "Zephryn"
+  },
+  "0x0600000000637C4F": {
+    "name": "Hotfire"
+  },
+  "0x0600000000127DE2": {
+    "name": "Duthor"
+  },
+  "0x06000000005ED5A0": {
+    "name": "Fallsrad"
+  },
+  "0x0600000000765647": {
+    "name": "Hanzohasashi"
+  },
+  "0xF14027DF3101BB7B": {
+    "name": "Thooroon",
+    "master_name": "Bossack",
+    "master_guid": "0x060000000077A3A4"
+  },
+  "0xF130008046051A0B": {
+    "name": "Minigob Manafrappe"
+  },
+  "0x06000000005BBAD1": {
+    "name": "Gabrand"
+  },
+  "0x060000000055A12B": {
+    "name": "Femida"
+  },
+  "0x0600000000778889": {
+    "name": "Resset"
+  },
+  "0xF130000FEB050048": {
+    "name": "Rat"
+  },
+  "0x060000000074AF22": {
+    "name": "Xurxogr"
+  },
+  "0x06000000006583B2": {
+    "name": "Matrena"
+  },
+  "0xF140214B8D01BB79": {
+    "name": "Jhuuroon",
+    "master_name": "Fallsrad",
+    "master_guid": "0x06000000005ED5A0"
+  },
+  "0x06000000006D1159": {
+    "name": "Sottir"
+  },
+  "0xF130000FEB050049": {
+    "name": "Rat"
+  },
+  "0xF130007F8A0004C5": {
+    "name": "Protecteur de Dalaran blessé"
+  },
+  "0x0600000000685D17": {
+    "name": "Alsh"
+  },
+  "0x06000000003D25AD": {
+    "name": "Innferna"
+  },
+  "0xF14027209601BB85": {
+    "name": "Bheegrom"
+  },
+  "0x06000000006D74F8": {
+    "name": "Elemon"
+  },
+  "0x06000000003A196A": {
+    "name": "Flappydk"
+  },
+  "0x06000000006EAEAE": {
+    "name": "Juline"
+  },
+  "0x060000000077D543": {
+    "name": "Jarava"
+  },
+  "0x060000000051C7DC": {
+    "name": "Valafar"
+  },
+  "0xF130006DDCF11EEF": {
+    "name": "Forban de la KapitalRisk"
+  },
+  "0xF130006DDCF120CF": {
+    "name": "Forban de la KapitalRisk"
+  },
+  "0xF130007A56F20CB2": {
+    "name": "Chevalier de la mort adepte"
+  },
+  "0xF130007A54005833": {
+    "name": "Moissonneur de la Lame d'ébène"
+  },
+  "0xF130007A56F20D33": {
+    "name": "Chevalier de la mort adepte"
+  },
+  "0xF130007A54005836": {
+    "name": "Moissonneur de la Lame d'ébène"
+  },
+  "0xF130007A54005835": {
+    "name": "Moissonneur de la Lame d'ébène"
+  },
+  "0xF130007A54006085": {
+    "name": "Moissonneur de la Lame d'ébène"
+  },
+  "0xF130007A56F209D6": {
+    "name": "Chevalier de la mort adepte"
+  },
+  "0xF130007A56F209D9": {
+    "name": "Chevalier de la mort adepte"
+  },
+  "0xF130007A54006087": {
+    "name": "Moissonneur de la Lame d'ébène"
+  },
+  "0xF130007A56F20AD9": {
+    "name": "Chevalier de la mort adepte"
+  },
+  "0xF130007A54006088": {
+    "name": "Moissonneur de la Lame d'ébène"
+  },
+  "0xF130007A56F20D9C": {
+    "name": "Chevalier de la mort adepte"
+  },
+  "0xF130007A54005838": {
+    "name": "Moissonneur de la Lame d'ébène"
+  },
+  "0xF130007A56F2093C": {
+    "name": "Chevalier de la mort adepte"
+  },
+  "0xF130007A56F20B23": {
+    "name": "Chevalier de la mort adepte"
+  },
+  "0xF130007A54005837": {
+    "name": "Moissonneur de la Lame d'ébène"
+  },
+  "0xF130007A54005834": {
+    "name": "Moissonneur de la Lame d'ébène"
+  },
+  "0xF130007A56F20E1B": {
+    "name": "Chevalier de la mort adepte"
+  },
+  "0xF130007A54006089": {
+    "name": "Moissonneur de la Lame d'ébène"
+  },
+  "0xF130007A56F20C3E": {
+    "name": "Chevalier de la mort adepte"
+  },
+  "0xF130007A56F20AD4": {
+    "name": "Chevalier de la mort adepte"
+  },
+  "0xF130007A56F20C98": {
+    "name": "Chevalier de la mort adepte"
+  },
+  "0xF130007A54005839": {
+    "name": "Moissonneur de la Lame d'ébène"
+  },
+  "0xF130007A5400608B": {
+    "name": "Moissonneur de la Lame d'ébène"
+  },
+  "0x0600000000491E46": {
+    "name": "Chily"
+  },
+  "0xF130008F75000071": {
+    "name": "Gardien de la couvée nérub'ar"
+  },
+  "0xF130008F7500006F": {
+    "name": "Gardien de la couvée nérub'ar"
+  },
+  "0xF130003A2100005D": {
+    "name": "Araignée"
+  },
+  "0xF1300094280000AC": {
+    "name": "Champion d'argent"
+  },
+  "0xF13000946C0000C2": {
+    "name": "Champion d'ébène"
+  },
+  "0xF13000946C0000C0": {
+    "name": "Champion d'ébène"
+  },
+  "0xF13000946C0000C3": {
+    "name": "Champion d'ébène"
+  },
+  "0xF130000FEC000055": {
+    "name": "Blatte"
+  },
+  "0xF13000083E000047": {
+    "name": "Rat noir"
+  },
+  "0xF13000083E000043": {
+    "name": "Rat noir"
+  },
+  "0xF13000083E00004D": {
+    "name": "Rat noir"
+  },
+  "0xF13000083E000045": {
+    "name": "Rat noir"
+  },
+  "0xF130000FEC000059": {
+    "name": "Blatte"
+  },
+  "0xF13000948C0000FC": {
+    "name": "Entoilage",
+    "master_name": "Chily",
+    "master_guid": "0x0600000000491E46"
+  },
+  "0xF130003A21000061": {
+    "name": "Araignée"
+  },
+  "0xF130003A21000062": {
+    "name": "Araignée"
+  },
+  "0xF130008F75000075": {
+    "name": "Gardien de la couvée nérub'ar"
+  },
+  "0xF130008F75000070": {
+    "name": "Gardien de la couvée nérub'ar"
+  },
+  "0xF13000948C0000FD": {
+    "name": "Entoilage",
+    "master_name": "Tyfanie",
+    "master_guid": "0x06000000004C180B"
+  },
+  "0xF13000948C0000FE": {
+    "name": "Entoilage",
+    "master_name": "Chily",
+    "master_guid": "0x0600000000491E46"
+  },
+  "0xF1300094280000AA": {
+    "name": "Champion d'argent"
+  },
+  "0xF13000946C0000C1": {
+    "name": "Champion d'ébène"
+  },
+  "0xF13000948C0000FF": {
+    "name": "Entoilage",
+    "master_name": "Chily",
+    "master_guid": "0x0600000000491E46"
+  },
+  "0xF1300007AC000100": {
+    "name": "Tréant",
+    "master_name": "Tyfanie",
+    "master_guid": "0x06000000004C180B"
+  },
+  "0xF1300007AC000101": {
+    "name": "Tréant",
+    "master_name": "Tyfanie",
+    "master_guid": "0x06000000004C180B"
+  },
+  "0xF1300007AC000102": {
+    "name": "Tréant",
+    "master_name": "Tyfanie",
+    "master_guid": "0x06000000004C180B"
+  },
+  "0xF13000908F00007A": {
+    "name": "Gardien lié par la mort"
+  },
+  "0xF130008F75000074": {
+    "name": "Gardien de la couvée nérub'ar"
+  },
+  "0xF130008F74000068": {
+    "name": "Serviteur du Trône"
+  },
+  "0xF1300094280000AB": {
+    "name": "Champion d'argent"
+  },
+  "0xF130000FEC000057": {
+    "name": "Blatte"
+  },
+  "0xF13000083E000051": {
+    "name": "Rat noir"
+  },
+  "0x06000000006B2F4F": {
+    "name": "Sempai"
+  },
+  "0xF130008F7400006A": {
+    "name": "Serviteur du Trône"
+  },
+  "0xF130008F75000072": {
+    "name": "Gardien de la couvée nérub'ar"
+  },
+  "0xF130006DCCE9E9C3": {
+    "name": "Ravageur de la faucheuse d'os"
+  },
+  "0xF130006DCCE9EE2A": {
+    "name": "Ravageur de la faucheuse d'os"
+  },
+  "0xF13000908F00007B": {
+    "name": "Gardien lié par la mort"
+  },
+  "0x06000000004C2B64": {
+    "name": "Damehil"
+  },
+  "0xF140191761000002": {
+    "name": "Brainkeeper"
+  },
+  "0x06000000004A58C0": {
+    "name": "Librum"
+  },
+  "0x060000000076715E": {
+    "name": "Seraphael"
+  },
+  "0x0600000000751B0A": {
+    "name": "Notoriouspig"
+  },
+  "0x06000000006CD922": {
+    "name": "Mulltilator"
+  },
+  "0x06000000003C15BE": {
+    "name": "Emius"
+  },
+  "0x06000000004C0F9C": {
+    "name": "Gabeich"
+  },
+  "0x06000000005EB256": {
+    "name": "Cptsaveahoe"
+  },
+  "0xF1300079D1000104": {
+    "name": "Healing Stream Totem IX",
+    "master_name": "Farterarter",
+    "master_guid": "0x060000000038CB98"
+  }
+}

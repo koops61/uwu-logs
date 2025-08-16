@@ -6,6 +6,10 @@ Example (every minute with a lock):
 For testing, run it when needed manually.
 '''
 
+<<<<<<< HEAD
+=======
+# imports (en haut du fichier)
+>>>>>>> a94d2b1 (Initial commit du projet uwu-logs avec mes modifs)
 import itertools
 import os
 import sys
@@ -13,6 +17,12 @@ from collections import defaultdict
 from concurrent.futures import ProcessPoolExecutor
 from time import perf_counter
 
+<<<<<<< HEAD
+=======
+from functools import partial
+import top_gear as TG          # <= un seul import de top_gear
+import parser_profile as P
+>>>>>>> a94d2b1 (Initial commit du projet uwu-logs avec mes modifs)
 import api_7z
 import api_top_db_v2
 import logs_calendar
@@ -24,6 +34,11 @@ from h_other import get_report_name_info
 
 LOGGER_UPLOADS = Loggers.uploads
 
+<<<<<<< HEAD
+=======
+# OK de s'assurer que le dossier existe au chargement
+Directories.gear.mkdir(parents=True, exist_ok=True)
+>>>>>>> a94d2b1 (Initial commit du projet uwu-logs avec mes modifs)
 
 def remove_old_dublicate(report_id: str):
     if DEFAULT_SERVER_NAME in report_id:
@@ -46,7 +61,15 @@ def save_raw_logs(report_id: str):
     archive = api_7z.SevenZipArchive(archive_path)
     return_code = archive.create(pending_text)
     if return_code == 0:
+<<<<<<< HEAD
         pending_text.unlink()
+=======
+        try:
+            if pending_text.is_file():
+                pending_text.unlink()
+        except FileNotFoundError:
+            pass
+>>>>>>> a94d2b1 (Initial commit du projet uwu-logs avec mes modifs)
         remove_old_dublicate(report_id)
         LOGGER_UPLOADS.debug(f'{get_ms_str(pc)} | {report_id:50} | Saved raw')
         return
@@ -72,10 +95,79 @@ def gen_top_data(top_data: dict):
             table_name = api_top_db_v2.TopDB.get_table_name(boss_name, mode)
             yield table_name, data
 
+<<<<<<< HEAD
 
 def add_new_top_data(server, reports):
     top_data: dict[str, dict[str, list[dict]]]
 
+=======
+def get_players_from_top(top_data: dict) -> set[str]:
+    players = set()
+    for _table_name, data in gen_top_data(top_data):
+        for row in data:
+            name = row.get("player") or row.get("name") or row.get("n")
+            if name:
+                players.add(name)
+    return players
+
+def build_gear_for_reports(server: str, reports: list[str]):
+    """
+    Lit les tops des reports du serveur, récupère la liste unique de joueurs
+    et alimente la DB gear du serveur (créée si absente) via parser_profile.
+    """
+    # 1) Init/Création de la DB gear avec le BON schéma
+    try:
+        # new=True => crée le fichier + schéma si absent, sinon ouvre existant
+        TG.GearDB(server, new=True)
+    except Exception:
+        LOGGER_UPLOADS.exception(f"Cannot init GearDB for server={server}")
+        return
+
+    # 1bis) Forcer parser_profile à utiliser GearDB(new=True)
+    # (ainsi, son appel GearDB(server) créera la DB si besoin)
+    P.GearDB = partial(TG.GearDB, new=True)
+
+    # 2) Choix de la/les fonctions de parser_profile disponibles
+    use_player = hasattr(P, "parse_and_save_player")
+    use_wrap   = hasattr(P, "parse_and_save_wrap")
+    if not (use_player or use_wrap):
+        LOGGER_UPLOADS.error("No gear parse function found in parser_profile")
+        return
+
+    # 3) Collecte des joueurs depuis les tops
+    all_players = set()
+    for report_id in reports:
+        top_file = Directories.logs.joinpath(report_id, FileNames.logs_top)
+        if not top_file.is_file():
+            continue
+        try:
+            top_data = top_file.json()
+            all_players |= get_players_from_top(top_data)
+        except Exception:
+            LOGGER_UPLOADS.exception(f"Error reading top file for {report_id}")
+
+    if not all_players:
+        return
+
+    # 4) Parse & sauvegarde du gear
+    for name in sorted(all_players):
+        try:
+            player_obj = {"name": name, "server": server}  # attendu par parser_profile
+            if use_player:
+                P.parse_and_save_player(player_obj)
+            elif use_wrap:
+                try:
+                    P.parse_and_save_wrap(player_obj)
+                except TypeError:
+                    P.parse_and_save_wrap(name)
+
+            LOGGER_UPLOADS.debug(f"Saved gear | {name:30} | {server}")
+        except Exception:
+            LOGGER_UPLOADS.exception(f"Gear parse error | {name} | {server}")
+
+
+def add_new_top_data(server, reports):
+>>>>>>> a94d2b1 (Initial commit du projet uwu-logs avec mes modifs)
     pc = perf_counter()
 
     errors = set()
@@ -89,12 +181,22 @@ def add_new_top_data(server, reports):
                 break
             _data[table_name].extend(data)
 
+<<<<<<< HEAD
     api_top_db_v2.TopDB(server, new=True).add_new_entries_wrap(_data)
     
     LOGGER_UPLOADS.debug(f'{get_ms_str(pc)} | Saved top | {server}')
 
     return errors
 
+=======
+    # crée/ouvre la DB TOP (comme avant)
+    api_top_db_v2.TopDB(server, new=True).add_new_entries_wrap(_data)
+
+    LOGGER_UPLOADS.debug(f'{get_ms_str(pc)} | Saved top | {server}')
+    return errors
+
+
+>>>>>>> a94d2b1 (Initial commit du projet uwu-logs avec mes modifs)
 def group_reports_by_server(new_logs):
     new_logs = sorted(new_logs, key=_report_server)
     return itertools.groupby(new_logs, key=_report_server)
@@ -167,6 +269,16 @@ def main(multiprocessing=True):
 
     remove_errors(NEW_LOGS, errors, func="add_new_top_data")
 
+<<<<<<< HEAD
+=======
+    # === Build/Update gear DB par serveur, à partir des reports traités ===
+    for server, reports_iter in group_reports_by_server(NEW_LOGS):
+        reports = list(reports_iter)  # matérialiser l’itérateur !
+        build_gear_for_reports(server, reports)
+    # === fin gear ===
+
+
+>>>>>>> a94d2b1 (Initial commit du projet uwu-logs avec mes modifs)
     # needs player and encounter data, thats why after logs top
     logs_calendar.add_new_logs(NEW_LOGS)
 
