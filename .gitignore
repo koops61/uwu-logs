@@ -14,6 +14,8 @@ venv/
 .idea/
 .DS_Store
 Thumbs.db
+_logs_list.pkl
+static/icons/
 
 # Logs (runtime)
 _loggers/
@@ -21,9 +23,11 @@ _loggers/
 
 # Données générées par les scripts
 LogsDir/
+LogsRaw/
 uploads/uploaded/
 uploads/tmp/
 pending_archive/
+uploads/0file_info/
 archives/
 *.7z
 *.zip
