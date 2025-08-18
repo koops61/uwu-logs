@@ -8,9 +8,99 @@ Supports any Wrath of the Lich King (3.3.5) server.
 
 ❤️ Inspired by World of Logs, LegacyPlayers and Warcraft Logs.
 
+
+## Nouveautés de ce fork (koops61)
+
+- `logs_auto.py` : pipeline auto qui crée/alimente les bases **Top** et **Gear** à partir des reports.
+- `reparse_all.py` : relance le parsing de tout `uploads/uploaded` (utile après une mise à jour).
+- **Création auto** des bases SQLite `db/top/*.db` et `db/gear/*.db` si absentes (schéma correct).
+- `.gitignore` renforcé (les fichiers générés ne polluent plus le dépôt).
+- **Dashboard local** `uwu_gui.py` (Tkinter) : contrôle de services, stats live, tail de logs, lancement de scripts, init DB, cron. 
+
+---
+
 ## Self hosting
 
 - Install packages from `requirements.txt`
+
+# pour le GUI Tkinter (Debian/Ubuntu)
+sudo apt-get install -y python3-tk
+
+# optionnel : psutil pour des stats système plus précises
+pip install psutil
+
+---
+## Dashboard local : uwu_gui.py 
+   Un petit dashboard Tkinter pour piloter la stack localement.
+   Lancer : python uwu_gui.py  "Nécessite : python3-tk (Tkinter). psutil est facultatif (le script a un fallback /proc)."
+
+<img width="1006" height="744" alt="image" src="https://github.com/user-attachments/assets/f8ac08b8-10a1-4ea2-b7e6-752fa64ba12f" />
+
+
+Fonctions
+
+Services systemd : Start / Stop / Restart / Status pour
+server_5000 (site), server_5010 (top), server_5020 (upload).
+
+Stats live : CPU, RAM, disque (via psutil si présent, sinon fallback).
+
+Logs : sélection d’un fichier et Tail 200; affiche aussi la sortie en direct des scripts lancés.
+
+Scripts :
+
+Lancer logs_auto.py
+
+Init/Check DB (Top + Gear) : crée/valide les schémas et insère un sample minimal si besoin
+
+Cron (utilisateur) :
+
+Afficher la crontab
+
+Assurer l’entrée cron (une seule ligne) pour logs_auto.py toutes les 2 minutes
+
+Configuration (en haut du fichier)
+
+BASE_DIR : /var/www/html
+
+VENV_PY : venv/bin/python si présent
+
+SERVICES : server_5000, server_5010, server_5020
+
+LOG_CANDIDATES : fichiers à proposer par défaut dans la section Logs
+
+Droits sudo (contrôle systemd depuis le GUI)
+
+Si tu veux cliquer Start/Stop sans mot de passe : sudo visudo -f /etc/sudoers.d/uwu-logs
+
+Exemple (remplace username par le votre) : 
+username ALL=(ALL) NOPASSWD: /bin/systemctl start server_5000.service, /bin/systemctl stop server_5000.service, /bin/systemctl restart server_5000.service, /bin/systemctl status server_5000.service, /bin/systemctl start server_5010.service, /bin/systemctl stop server_5010.service, /bin/systemctl restart server_5010.service, /bin/systemctl status server_5010.service, /bin/systemctl start server_5020.service, /bin/systemctl stop server_5020.service, /bin/systemctl restart server_5020.service, /bin/systemctl status server_5020.service
+
+Dans le GUI :
+
+coche “Utiliser sudo” si nécessaire ;
+
+si tu as configuré NOPASSWD, coche “sudo -n (non interactif)” ;
+
+sinon, décoche “sudo -n” et lance le GUI depuis un terminal pour pouvoir entrer ton mot de passe.
+
+Permissions des logs (important)
+
+Les services écrivent dans /_loggers.
+Assure-toi que le répertoire existe et est écrit par l’utilisateur qui lance les services (www-data en prod) :
+
+sudo mkdir -p /var/www/html/_loggers
+sudo chown -R www-data:www-data /var/www/html/_loggers
+sudo chmod 775 /var/www/html/_loggers
+
+Cron (uniquement logs_auto.py)
+
+Exemple d’entrée (toutes les 2 minutes) Le dashboard peut l’ajouter automatiquement (menu Cron > “Assurer l’entrée UwU Logs”). :
+
+
+*/2 * * * * cd /var/www/html && /var/www/html/venv/bin/python /var/www/html/logs_auto.py >> /home/$USER/logs/logs_auto.log 2>&1
+
+
+---
 
 - Run `python Z_SERVER.py` OR `gunicorn3 Z_SERVER:SERVER --port 5000 -D`
 
