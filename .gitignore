@@ -54,6 +54,9 @@ pending_archive/*
 archives/*
 !archives/.gitkeep
 
+_logs_list.pkl
+_logs_list.bkp
+
 *.7z
 *.zip
 
