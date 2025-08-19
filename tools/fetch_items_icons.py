@@ -19,7 +19,7 @@ BASE_DIR   = SCRIPT_DIR.parent  # -> /var/www/html
 # --- DOSSIERS ---
 ITEMS_DIR     = BASE_DIR / "static" / "item"
 GEMS_DIR      = BASE_DIR / "static" / "enchant"   # <= tu as dit que les gemmes sont ici
-ENCHANTS_DIR  = BASE_DIR / "static" / "enchant"éé
+ENCHANTS_DIR  = BASE_DIR / "static" / "enchant"
 OUTPUT_DIR    = BASE_DIR / "static" / "icons"
 
 BASE_URL      = "https://wow.zamimg.com/images/wow/icons/large/{icon}.jpg"
