@@ -48,11 +48,13 @@ uploads/tmp/*
 uploads/0file_info/*
 !uploads/0file_info/.gitkeep
 
-pending_archive/*
-!pending_archive/.gitkeep
+uploads/0archive_pending/*
+!uploads/0archive_pending/.gitkeep
 
 archives/*
 !archives/.gitkeep
+
+
 
 _logs_list.pkl
 _logs_list.bkp
