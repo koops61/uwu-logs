@@ -34,7 +34,7 @@ pip install psutil
    Un petit dashboard Tkinter pour piloter la stack localement.
    Lancer : python uwu_gui.py  "Nécessite : python3-tk (Tkinter). psutil est facultatif (le script a un fallback /proc)."
 
-<img width="1006" height="744" alt="image" src="https://github.com/user-attachments/assets/f8ac08b8-10a1-4ea2-b7e6-752fa64ba12f" />
+<img width="1345" height="753" alt="image" src="https://github.com/user-attachments/assets/c58eba09-557b-4f07-a959-71a083cbeaab" />
 
 
 Fonctions
